@@ -1,5 +1,6 @@
 
-public class ArbreBPLus {
+public class ArbreBPLus{
+	
 	
 	private int ordre;
 	private int TauxDeRemplissage;
